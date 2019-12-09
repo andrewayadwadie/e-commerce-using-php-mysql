@@ -1,0 +1,41 @@
+html,body{background:#fff;}
+#wrapper{width:100%;height:auto;}
+#header{width:100%;height:58px;background:url(../_images/header.png) repeat-x}
+#contentHeader{width:980px;height:100%;margin:0 auto}
+#contentHeader h1{line-height:58px;font-family:Verdana, Geneva, sans-serif;font-size:30px;color:#fff;float:left}
+#contentHeader a{line-height:58px;color:#fff;float:right;font-family:Verdana, Geneva, sans-serif;font-size:14px}
+#content{width:100%;height:600px;margin:10px 0}
+#contentContent{width:980px;margin:0 auto}
+#leftContent{float:left;width:193px;height:100%}
+#menu{width:100%;height:auto;margin:0 0 10px 0}
+#titleMenu{width:100%;height:30px;background:url(../_images/headMenu.png) repeat-x;border:1px solid #ebebea}
+#titleMenu p{line-height:30px;padding:0 5px;font-family:Verdana, Geneva, sans-serif;font-size:14px;color:#fff;font-weight:bold}
+#bottomMenu{background:#fbfbfb;border:1px solid #ebebea}
+#bottomMenu ul{padding:0 5px;}
+#bottomMenu ul li{padding:3px 0;border-bottom:1px solid #ebebea}
+#bottomMenu ul li a{text-decoration:none;color:#ffa12b}
+#bottomMenu ul li a:hover{color:#9c0905}
+#rightContent{float:right;width:754px;height:100%}
+#menuRightContent{width:100%;height:auto;margin:0 0 10px 0}
+#titleMenuRightContent{width:100%;height:31px;background:url(../_images/HeadMenuContent.png) repeat-x;border:1px solid #ebebea}
+#titleMenuRightContent p{line-height:30px;padding:0 5px;font-family:Verdana, Geneva, sans-serif;font-size:14px;color:#a50c07;font-weight:bold}
+#bodyMenuRightContent{background:#fbfbfb;border:1px solid #ebebea}
+#bodyMenuRightContent P{padding:5px;color:#656565;font-family:Verdana, Geneva, sans-serif;font-size:14px}
+#name{width:96%;height:30px;margin:3px 5px;border:1px solid #ccc;border-radius:5px;font-family:Tahoma, Geneva, sans-serif;font-size:14px;color:#656565;padding:2px 3px}
+#name:focus{border:2px solid #A50C07}
+#select{width:96%;height:30px;margin:5px;border:1px solid #ccc;font-family:Tahoma, Geneva, sans-serif;font-size:14px;color:#656565;padding:2px 3px}
+#textareas{width:96%;height:80px;margin:3px 5px;border:1px solid #ccc;border-radius:5px;font-family:Tahoma, Geneva, sans-serif;font-size:14px;color:#656565;padding:2px 5px}
+#textareas:focus{border:2px solid #A50C07}
+#submit{padding:10px;cursor:pointer;height:40px;margin:20px 5px;border:1px solid #ccc;border-radius:5px;font-family:Tahoma, Geneva, sans-serif;font-size:14px;color:#656565}
+#submit:hover{border:2px solid #A50C07;color:#A50C07}
+#footer{width:100%;height:31px;background:url(../_images/Footer.png) repeat-x}
+#contentFooter{width:980px;height:100%;margin:0 auto;text-align:center}
+#contentFooter a{line-height:31px;text-decoration:none;color:#ccc;font-size:12px;font-family:Verdana, Geneva, sans-serif}
+.message{width:100%;height:30px;background:#1A528D;}
+.message h1{padding:5px;color:#fff;font-size:14px;font-family:Verdana, Geneva, sans-serif}
+tables tr, td{color:#000;font-size:12px;font-family:Verdana, Geneva, sans-serif;padding:3px 10px;border-bottom:1px solid #c3c3c3;}
+.headtable{background:#7765a1;color:#fff}
+.headtable td{text-decoration:none;padding:5px 10px;font-size:14px;color:#fff;font-weight:bold;}
+tables tr, td a{text-decoration:none;font-weight:bold;color:#393D48;transition: color 1s;}
+tables tr, td a:hover{color:#7765a1;}
+#middlecontent{width:600px; margin:20px auto}
